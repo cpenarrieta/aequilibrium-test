@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Game should print results 1`] = `
+"1 battles
+Wining team: Autobots
+Survivors from the losing team (Deceptions) Blitzwing"
+`;
